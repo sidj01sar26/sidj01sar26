@@ -65,7 +65,7 @@
     <img src="https://ico.vercel.app/vercel/fff" alt="Vercel" height="40" />
     <img src="https://ico.vercel.app/netlify/24E1E1" alt="Netlify" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vs" height="40" />
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="45" />
 </div>
 
 <br>
