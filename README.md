@@ -9,7 +9,7 @@
 <h1 align="center">💻 A Passionate MERN Stack Developer</h1>
 <p align="center">
     <img align="center" alt="Coding" height="210px" width="380"
-        src="https://cdn.savvylance.com/uploads/gigs/605376fc6077e.png">
+        src="mern.png">
 </p>
 <br>
 <h1 align="center">🙋‍♂️ About Me</h1>
@@ -17,7 +17,7 @@
     <p>
         👨‍💻 My foremost passion is web development, where I specialize in crafting stunning websites.
         <br>
-        🔦 Beyond the Web, my interest lies in Data Science and Machine Learning.
+        🔦 Beyond the Web, my interest lies in Data Science and Machine Learning
         <br>
         🔆 I'm proficient in Data Structures and Algorithms using C++
         <br>
