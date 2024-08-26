@@ -29,6 +29,8 @@
         <br>
         🚀 I am committed to continuously expanding my knowledge and skills, and staying updated with industry trends
         and best practices.
+        <br>
+        🌐 Know more about me and my projects at https://sid-tech.vercel.app/
     </p>
 </div>
 
