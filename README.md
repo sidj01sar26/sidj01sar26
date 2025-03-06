@@ -7,7 +7,7 @@
 <h3 align="center">💻 A Passionate MERN Stack Developer</h3>
 
 <img align="right" alt="webdev" height="200" width="400"
-    src="https://github.com/sidj01sar26/Sid-Portfolio/blob/main/src/assets/hero.gif?raw=true">
+    src="https://media1.tenor.com/m/zzntm2_9B3gAAAAd/hacker.gif">
 
 - 👨‍💻 Specializing in crafting stunning websites.
 - 🔦 Passionate about Data Science and Machine Learning.
