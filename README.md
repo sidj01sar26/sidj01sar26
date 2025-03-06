@@ -6,7 +6,7 @@
 
 <h3 align="center">💻 A Passionate MERN Stack Developer</h3>
 
-<img align="right" alt="webdev" height="230" width="450"
+<img align="right" alt="webdev" height="230" width="400"
     src="https://github.com/sidj01sar26/Sid-Portfolio/blob/main/src/assets/hero.gif?raw=true">
 
 - 👨‍💻 Specializing in crafting stunning websites.
@@ -17,14 +17,13 @@
 - 👯 Open to collaborating on Hackathons & Full Stack Projects.
 - 🚀 Always learning & staying updated with industry trends.
 - 🌐 Check out [My Portfolio](https://sid-tech.vercel.app/)
+
 <br>
-<br>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sidj01sar26&label=Profile%20Views&color=0e75b6&style=plastic"
         alt="Sid" height="22" width="120" />
 </p>
-
-<br>
 
 <h1 align="center">🌐 Connect with me:</h1>
 
@@ -45,8 +44,6 @@
             alt="siddharth.joisar" />
 </a>
 </p>
-
-<br>
 
 <div>
     <h1 align="center">🔧 Languages & Tools</h1>
@@ -79,8 +76,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" />
 </div>
-
-<br>
 
 <h1 align="center">📊 My GitHub Stats</h1>
 
